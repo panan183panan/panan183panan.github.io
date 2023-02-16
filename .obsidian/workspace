@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "ce3fc8203eac56cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a6fc573695cc922",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "课时.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cd16f1d19d3b576",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1d4352c7b191c2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c209d5a7864464d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "153adc9a2e7eb9c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "suspense",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.00704956054688
+  },
+  "right": {
+    "id": "4197d97fff4ea89f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bbb71b4bd08f668",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d77b436dde4a399f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "课时.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28af200edcf383b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "课时.md"
+              }
+            }
+          },
+          {
+            "id": "4734d5374720c7ef",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0a6fc573695cc922",
+  "lastOpenFiles": [
+    "规划.md",
+    "课时.md",
+    "EveryDay/React/useMemo与useCallback.md",
+    "EveryDay/React/useEffect与useLayoutEffect.md",
+    "EveryDay/React/setState同步异步场景.md",
+    "EveryDay/React/ReactRouter的实现.md",
+    "EveryDay/React/React中refs的理解.md",
+    "EveryDay/React/React中diff算法的理解.md",
+    "EveryDay/React/React中组件间通信的方式.md",
+    "EveryDay/React/React中的合成事件.md"
+  ]
+}

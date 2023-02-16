@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "ce3fc8203eac56cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a13f02a649d693a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47dccc83098c25fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cd16f1d19d3b576",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1d4352c7b191c2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c209d5a7864464d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "153adc9a2e7eb9c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4197d97fff4ea89f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bbb71b4bd08f668",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d77b436dde4a399f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28af200edcf383b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4734d5374720c7ef",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "publish:发布更改": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
+    }
+  },
+  "active": "47dccc83098c25fb",
+  "lastOpenFiles": [
+    "前端知识点-面试题总结.md",
+    "课时.md",
+    "快捷键.md",
+    "作业.md",
+    "前端面试/1- 综合问题版.md",
+    "每日一结/2022-4-15.md",
+    "毕业设计/umi/基础知识.md",
+    "毕业设计/umi/配置.md",
+    "snippets/when.md",
+    "EveryDay/JavaScript/Js实用小技巧.md"
+  ]
+}
