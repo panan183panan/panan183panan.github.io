@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a13f02a649d693a",
+        "id": "d2f7b340a0b6b174",
         "type": "tabs",
         "children": [
           {
-            "id": "47dccc83098c25fb",
+            "id": "23f7dd7598a609e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "404.md",
+                "file": "EveryDay/Browser/GET和POST的区别.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "http1.0",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 308.5
   },
   "right": {
     "id": "4197d97fff4ea89f",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "404.md",
+                "file": "EveryDay/Browser/GET和POST的区别.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "404.md"
+                "file": "EveryDay/Browser/GET和POST的区别.md"
               }
             }
           },
@@ -116,9 +116,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
@@ -127,17 +127,33 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "47dccc83098c25fb",
+  "active": "23f7dd7598a609e8",
   "lastOpenFiles": [
-    "_siderbar.md",
-    "课时.md",
-    "规划.md",
-    "前端知识点-面试题总结.md",
+    "EveryDay/Browser/Element对象.md",
+    "EveryDay/Browser/domReady的理解.md",
+    "EveryDay/Browser/CSS劫持攻击.md",
+    "EveryDay/Browser/CSRF跨站请求伪造.md",
+    "EveryDay/Browser/强缓存与协商缓存.md",
+    "EveryDay/Browser/浏览器重绘与回流.md",
+    "EveryDay/Browser/浏览器页面呈现过程.md",
+    "刷题/网络.md",
+    "EveryDay/Browser/OSI七层模型.md",
+    "EveryDay/Browser/对称加密与非对称加密.md",
+    "EveryDay/Browser/浏览器渲染与内核.md",
+    "EveryDay/Browser/浏览器事件.md",
+    "EveryDay/Browser/浏览器窗口间通信.md",
+    "EveryDay/Browser/浏览器本地存储方案.md",
+    "EveryDay/Browser/跨域问题.md",
+    "EveryDay/Browser/分布式SESSION一致性.md",
+    "EveryDay/Linux/curl命令.md",
+    "EveryDay/Browser/HTTP协议概述.md",
+    "EveryDay/Browser/HTTP协议发展历程.md",
     "快捷键.md",
+    "前端知识点-面试题总结.md",
     "作业.md",
-    "前端面试/1- 综合问题版.md",
-    "每日一结/2022-4-15.md",
-    "毕业设计/umi/基础知识.md",
-    "毕业设计/umi/配置.md"
+    "index.md",
+    "EveryDay/Vue/v-if与v-show的区别.md",
+    "EveryDay/Vue/MVVM模式的理解.md",
+    "EveryDay/Vue/data为何以函数形式返回.md"
   ]
 }
